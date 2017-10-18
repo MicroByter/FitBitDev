@@ -1,0 +1,30 @@
+<svg >
+  <rect id="myBackground" />
+  <image id="tttBoard" href="ttt_board.png" x="0" y="0" width="250" height="250" /> 
+  
+
+  
+
+  <image id="tl" class="tl" pointer-events="visible" href="x.png" x="0" y="0" width="76" height="76"  />  
+  <image id="tm" class="rm" pointer-events="visible" href="x.png" x="87" y="0" width="76" height="76" />  
+  <image id="tr" class="tr" pointer-events="visible" href="x.png" x="174" y="0" width="76" height="76"  />  
+
+  <image id="ml" class="ml" href="b.png" x="0" y="87" width="76" height="76"  pointer-events="visible" />  
+  <image id="mm" class="mm" href="b.png" x="87" y="87" width="76" height="76"  pointer-events="visible" />  
+  <image id="mr" class="mr" href="b.png" x="174" y="87" width="76" height="76"  pointer-events="visible" />  
+
+  <image id="bl" class="bl" href="b.png" x="0" y="174" width="76" height="76"  pointer-events="visible" />  
+  <image id="bm" class="bm" href="b.png" x="87" y="174" width="76" height="76"  pointer-events="visible" />  
+  <image id="br" class="br" href="b.png" x="174" y="174" width="76" height="76"  pointer-events="visible" />  
+
+  <image id="restart" href="X.png" x="260" y="174" width="76" height="76"  pointer-events="visible" />  
+
+   
+  
+  <text id="myHours" />
+  <text id="myMins" />
+
+  
+</svg>
+
+

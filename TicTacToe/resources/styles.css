@@ -1,0 +1,25 @@
+#myBackground {
+  width: 100%;
+  height: 100%;
+  fill: #ffffff;
+}
+
+#myHours {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 300;
+  y: 60;
+  fill: white;
+}
+
+#myMins {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 300;
+  y: 130;
+  fill: white;
+}
